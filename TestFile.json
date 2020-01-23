@@ -1,0 +1,4 @@
+我是用来被测试的ID
+XXDDSSZX111111
+我是用来测试的代码
+private static FooBar BASIC_EMPTY_TTESTT = new FooBar("", ExtraUUIDs.nilUUID("TTEESSTT"), 0);
